@@ -1,6 +1,6 @@
 # px2rpx-loader
 
-a [webpack](http://webpack.github.io/) loader for [px2rpx](https://github.com/songsiqi/px2rpx)
+a [webpack](http://webpack.github.io/) loader for [px2rpx](https://github.com/megalojs/megalo-px2rpx)
 
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
@@ -42,4 +42,4 @@ module.exports = {
 }
 ```
 
-Please see [px2rpx](https://github.com/songsiqi/px2rpx) for more information about query parameters of px2rpx.
+Please see [px2rpx](https://github.com/megalojs/megalo-px2rpx) for more information about query parameters of px2rpx.
