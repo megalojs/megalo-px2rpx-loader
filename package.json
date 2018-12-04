@@ -1,14 +1,14 @@
 {
   "name": "@megalo/px2rpx-loader",
-  "version": "0.1.9",
+  "version": "0.1.1",
   "description": "css post loader for px2rpx",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test.js --slow 2000"
+    "test": "mocha --slow 2000"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:megalojs/megalo-px2rpx-loader.git"
   },
   "keywords": [
     "webpack",
@@ -17,12 +17,12 @@
   "author": "Jinjiang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jinjiang/px2rem-loader/issues"
+    "url": "https://github.com/megalojs/megalo-px2rpx-loader/issues"
   },
-  "homepage": "https://github.com/Jinjiang/px2rem-loader",
+  "homepage": "https://github.com/megalojs/megalo-px2rpx-loader",
   "dependencies": {
     "loader-utils": "^1.1.0",
-    "px2rem": "^0.5.0"
+    "@megalo/px2rpx": "^0.1.0"
   },
   "devDependencies": {
     "chai": "~3.0.0",
